@@ -1,0 +1,2 @@
+webpackJsonp([0],[,,function(e,t,n){"use strict";n(3);var o=new Date,s=o.getHours()+":"+o.getMinutes()+":"+o.getSeconds();console.log("The current time is "+s)},function(e,t){}],[2]);
+//# sourceMappingURL=main.7042a6e0fcd2cc6c667b.js.map
